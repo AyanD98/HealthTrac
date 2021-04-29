@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HealthTrac</string>
+    <string name="height">Enter Height in Cms.</string>
+    <string name="weight">Enter Weight in Kgs.</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="result">Result</string>
+    <string name="feedback">Feedback</string>
+    <string name="reset">Reset</string>
+</resources>
